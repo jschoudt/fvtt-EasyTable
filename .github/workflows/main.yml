@@ -36,13 +36,9 @@ jobs:
             sha: context.sha
           })
     - name: Delete Release
+      shell: bash
       id: delete_tag_release
-      uses: dev-drprasad/delete-tag-and-release@v0.2.0
-      with:
-        delete_release: true
-        tag_name: latest
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: gh release delete latest -y
     - name: Create Release
       id: create_versioned_release
       uses: ncipollo/release-action@v1
