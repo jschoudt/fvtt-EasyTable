@@ -1,7 +1,7 @@
 # EasyTable
 
-![EasyTable Release](https://github.com/BlitzKraig/fvtt-EasyTable/workflows/EasyTable%20Release/badge.svg)
-![Latest Release Download Count](https://img.shields.io/github/downloads/BlitzKraig/fvtt-EasyTable/latest/easytable-release.zip)
+![EasyTable Release](https://github.com/jschoudt/fvtt-EasyTable/workflows/EasyTable%20Release/badge.svg)
+![Latest Release Download Count](https://img.shields.io/github/downloads/jschoudt/fvtt-EasyTable/latest/easytable-release.zip)
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q01YIEJ)
 
@@ -106,10 +106,10 @@ Note that the export function does not export the title or the description, just
 
 ## Manifest
 
-`https://raw.githubusercontent.com/BlitzKraig/fvtt-EasyTable/master/module.json`
+`https://raw.githubusercontent.com/jschoudt/fvtt-EasyTable/master/module.json`
 
 ## Feedback
 
-For bugs/feedback, create an issue on GitHub, or contact me on Discord at Blitz#6797
+For bugs/feedback, create an issue on GitHub.
 
 ## [Release Notes](./CHANGELOG.md)
