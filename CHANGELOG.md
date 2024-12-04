@@ -1,3 +1,6 @@
+## 1.3.5 - Compat (2024/12/03)
+* Updated to be compatible with Foundry VTT V12. Based on [PR](https://github.com/BlitzKraig/fvtt-EasyTable/pull/23) from @Q-efx for V11.
+
 ## 1.3.2 - Compat (2021/05/22)
 * Updated version compat to 0.8.5
 
